@@ -1,3 +1,10 @@
+# Name: Amol Yadav, <amolyadav-inft@atharvacoe.ac.in>
+
+# the experience was good but for some cells like where the plots should be there it is not plotting and also some code snippets thrown errors, i guess it was due to version mismatch errors and i dont have an api key and crn so i cant perform the last cell too.
+
+# Let us know if you’d like mentorship or guidance to learn more about Qiskit and quantum computing: Yeah Sure, i am ready
+
+
 # 🧠 Qiskit Fundamentals
 
 Welcome to **Qiskit Fundamentals** — a beginner-friendly notebook designed to help you explore the **basics of quantum computing** using **IBM’s Qiskit SDK**.
