@@ -41,5 +41,5 @@ By practicing here, you’ll gain the foundation to explore advanced topics like
 ---
 
 **Created by:** [Nikhila Yeturi](https://www.linkedin.com/in/nikhilayeturi)  
-🎓 Vice Chair, IEEE Chicago • IBM Qiskit Advocate  
+🎓 Vice Chair of communications, IEEE Chicago • IBM Qiskit Advocate  
 💬 *"Learn by coding — simulate before you compute."*
